@@ -4,7 +4,6 @@ export { useIsMounted } from './hooks/useIsMounted';
 export { useKeyboard } from './hooks/useKeyboard';
 export { useOrientation } from './hooks/useOrientation';
 export { useForceUpdate } from './hooks/useForceUpdate';
-export { useEventEmitter } from './hooks/useEventEmitter';
 export { useTimeout } from './hooks/useTimeout';
 export { useDebounce } from './hooks/useDebounce';
 export { useArray } from './hooks/useArray';

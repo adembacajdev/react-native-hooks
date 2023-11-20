@@ -79,18 +79,6 @@ useEffect(() => {
 }, [showForceUpdate]);
 ```
 
-### useEventEmitter
-
-```js
-import { useEventEmitter } from '@adembacaj/react-native-hooks';
-
-const carouselEventEmitter = useEventEmitter({
-  maxListeners: 20,
-});
-
-carouselEventEmitter('onSnapToItem', 5);
-```
-
 ### useTimeout
 
 ```js
