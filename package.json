@@ -1,12 +1,13 @@
 {
   "name": "@adembacaj/react-native-hooks",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Custom hooks that can help during development",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
+  "private": false,
   "files": [
     "src",
     "lib",
